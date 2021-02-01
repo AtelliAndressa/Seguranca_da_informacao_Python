@@ -1,6 +1,6 @@
-import socket
+import socket  #fornece acesso a interface de rede
 import sys   #fornece algumas funções que tem forte interação com interpretador
-
+#TCP = Protocolo de controle de Transmissão
 
 def main():
     try:
